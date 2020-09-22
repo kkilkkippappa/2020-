@@ -1,0 +1,622 @@
+
+#background{
+  position: absolute;
+  width: 92%;
+  height: 100%;
+  left: -21%;
+  top: 0%;
+  
+  background: #639DD1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 62px
+}
+
+#설명{
+  position: absolute;
+  width: 50%;
+  height: 5%;
+left: 28%;
+top: 85%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #ffffff;
+}
+
+#logo{
+  position: absolute;
+  width: 12%;
+  height: 19%;
+  left: 25%;
+  top: 0%;
+
+}
+
+#pic{
+  position: absolute;
+  width: 80%;
+  height: 95%;
+  left: 19%;
+  top: 1.6%;
+}
+
+#pic1{
+  position: absolute;
+  width: 50%;
+  height: 74%;
+  left: 34%;
+  top: 15%;
+}
+
+#profile{
+  position: absolute;
+  border-radius:75%;
+  width: 8%;
+  height: 16.5%;
+  left: 81%;
+  top: 5%;
+  
+  background: #C7EEFF;
+}
+
+#profile1{
+  position: absolute;
+  border-radius:75%;
+  width: 7%;
+  height: 14.5%;
+  left: 74%;
+  top: 11%;
+  
+  background: #C7EEFF;
+}
+
+#Login{
+  position: absolute;
+width: 18%;
+height: 10%;
+left: 76%;
+top: 22%;
+
+background: #FFFFFF;
+border: 1px solid #4494DF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 80px;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 40px;
+letter-spacing: 0.05em;
+
+color: #4494DF;
+}
+
+#so0{
+  position: absolute;
+width: 15%;
+height: 15%;
+left: 75%;
+top: 45%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #7E7E7E;
+
+}
+
+#so0클릭{
+  position: absolute;
+width: 15%;
+height: 15%;
+left: 75%;
+top: 45%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #639DD1;
+
+}
+
+#so1{
+  position: absolute;
+  width: 15%;
+  height: 15%;
+left: 75%;
+top: 49%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #7E7E7E;
+
+}
+
+#so1클릭{
+  position: absolute;
+  width: 15%;
+  height: 15%;
+left: 75%;
+top: 49%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #639DD1;
+
+}
+
+#so2{
+  position: absolute;
+  width: 15%;
+  height: 15%;
+left: 75%;
+top: 53%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #7E7E7E;
+
+}
+
+#so2클릭{
+  position: absolute;
+  width: 15%;
+  height: 15%;
+left: 75%;
+top: 53%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 23px;
+line-height: 29px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: #639DD1;
+
+}
+
+#myPage{
+  position: absolute;
+  width: 15%;
+  height: 15%;
+left: 75%;
+top: 37%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 46px;
+letter-spacing: 0.095em;
+
+color: #4B4B4B;
+
+
+}
+
+#외출{
+  position: absolute;
+  width: 20%;
+  height: 15%;
+left: 75%;
+top: 62%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 46px;
+letter-spacing: 0.095em;
+
+color: #4B4B4B;
+}
+
+#외출클릭{
+  position: absolute;
+  width: 20%;
+  height: 15%;
+left: 75%;
+top: 62%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 46px;
+letter-spacing: 0.095em;
+
+color: #639DD1;
+}
+
+#조퇴{
+  position: absolute;
+  width: 20%;
+  height: 15%;
+left: 75%;
+top: 74%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 46px;
+letter-spacing: 0.095em;
+
+color: #4B4B4B;
+}
+
+#조퇴클릭{
+  position: absolute;
+  width: 20%;
+  height: 15%;
+left: 75%;
+top: 74%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 46px;
+letter-spacing: 0.095em;
+
+color: #639DD1;
+}
+
+#글자{
+  position: absolute;
+  width: 20%;
+  height: 5%;
+left: 75%;
+top: 90%;
+
+font-family: Roboto Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: 0.05em;
+
+color: #C2C2C2;
+
+}
+
+#설명{
+  position: absolute;
+  width: 46%;
+  height: 15%;
+left: 24%;
+top: 83%;
+}
+
+#name{
+  position: absolute;
+  width: 8%;
+  height: 16.5%;
+  left: 82%;
+  top: 10%;
+  font-size: 33px;
+
+}
+
+#email{
+  position: absolute;
+  width: 8%;
+  height: 16.5%;
+  left: 82%;
+  top: 18%;
+  font-size: 20px;
+
+}
+
+#신청현황{
+  position: absolute;
+  width: 33%;
+  height: 18%;
+  left: 25%;
+  top: 70%;
+
+  background: #E24B4B;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 19px;
+
+  font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 56px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+
+#신청{
+  position: absolute;
+  width: 33%;
+  height: 18%;
+  left: 62%;
+  top:70%;
+
+  background: #E24B4B;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 19px;
+
+  font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 56px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+
+#white{
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  left: 15%;
+  top: 15%;
+  
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 62px
+}
+
+#white1{
+  position: absolute;
+  width: 57%;
+  height: 15%;
+  left: 15%;
+  top: 18%;
+  
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 62px
+}
+
+#title{
+  position: absolute;
+  width: 30%;
+  height: 15%;
+left: 13%;
+top: 1%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 33px;
+line-height: 46px;
+letter-spacing: 0.095em;
+
+color: #4B4B4B;
+}
+
+#Line{
+  position: absolute;
+width: 90%;
+height: 0%;
+left: 0%;
+top: 15%;
+
+border: 4px solid #639DD1;
+}
+
+
+
+#time{
+  position: absolute;
+  width: 90%;
+  height: 20%;
+  left: 13%;
+  top: 23%;
+  font-size: 25px;
+}
+
+#time1{
+  position: absolute;
+  width: 90%;
+  height: 20%;
+  left: 13%;
+  top: 35%;
+  font-size: 25px;
+}
+
+#reason{
+  position: absolute;
+  width: 90%;
+  height: 20%;
+  left: 13%;
+  top: 45%;
+  font-size: 25px;
+}
+
+#send{
+  position: absolute;
+  width: 140px;
+  height: 85px;
+  left: 85%;
+  top: 490px;
+
+  background: #E24B4B;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 19px;
+
+  font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 56px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+
+#text{
+  position: absolute;
+  width: 57%;
+  height: 40%;
+  left: 23%;
+  top:48%
+}
+
+#외출신청현황보기{
+  position: absolute;
+  width: 30%;
+  height: 52%;
+  left: 26%;
+  top: 17%;
+
+}
+
+#외출신청하기{
+  position: absolute;
+  width: 33%;
+  height: 58%;
+  left: 62%;
+  top: 20%;
+
+}
+
+#rule{
+  position: absolute;
+  width: 57%;
+  height: 40%;
+  left: 26%;
+  top:19.6%
+}
+
+#외출허가{
+  position: absolute;
+  width: 20%;
+  height: 15%;
+left: 75%;
+top: 62%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 46px;
+letter-spacing: 0.095em;
+
+color: #4B4B4B;
+
+}
+
+#외출허가클릭{
+  position: absolute;
+  width: 20%;
+  height: 15%;
+left: 75%;
+top: 62%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 46px;
+letter-spacing: 0.095em;
+color: #639DD1;
+
+
+}
+
+#조퇴허가{
+  position: absolute;
+  width: 20%;
+  height: 15%;
+left: 75%;
+top: 44%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 46px;
+letter-spacing: 0.095em;
+
+color: #4B4B4B;
+
+}
+
+#조퇴허가클릭{
+  position: absolute;
+  width: 20%;
+  height: 15%;
+left: 75%;
+top: 44%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 37px;
+line-height: 46px;
+letter-spacing: 0.095em;
+
+color: #639DD1;
+
+}
+
+#rule1{
+  
+  position: absolute;
+  width: 70%;
+  height: 15%;
+left: 25%;
+top: 35%;
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 46px;
+letter-spacing: 0.095em;
+
+color: #292929;
+
+}

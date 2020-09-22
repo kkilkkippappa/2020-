@@ -1,0 +1,134 @@
+#창{
+  position: absolute;
+width: 37.3%;
+height: 92%;
+left: 34%;
+top: 5%;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+border-radius: 6px;
+}
+
+body{
+  background: #639DD1;
+}
+
+#logo{
+  position: absolute;
+  width: 65%;
+  height: 38%;
+  left: 18.5%;
+  top: 4%;
+}
+
+#email{
+  position: absolute;
+  width: 85%;
+  height: 10%;
+  left: 7%;
+  top: 36%;
+
+  background: #FFFFFF;
+  box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+
+  font-size: 15px;
+}
+
+#password{
+  position: absolute;
+  width: 85%;
+  height: 10%;
+  left: 7%;
+  top: 50%;
+
+  background: #FFFFFF;
+  box-shadow: 2px 2px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+
+  font-size: 15px;
+}
+
+#OK{
+  position: absolute;
+width: 86%;
+height: 12%;
+left: 7%;
+top: 68%;
+
+background: #636BB9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+
+
+font-family: Do Hyeon;
+font-style: normal;
+font-weight: normal;
+font-size: 38px;
+line-height: 47px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+}
+
+#학생회원가입{
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  left: 31%;
+  top: 80%;
+  
+  font-family: Do Hyeon;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 87px;
+  /* identical to box height */
+  
+  font-feature-settings: 'tnum' on, 'lnum' on;
+  
+  color: #000000;
+
+}
+
+#선생님회원가입{
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  left: 52%;
+  top: 80%;
+  
+  font-family: Do Hyeon;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 87px;
+  /* identical to box height */
+  
+  font-feature-settings: 'tnum' on, 'lnum' on;
+  
+  color: #000000;
+
+}
+
+#홈으로{
+  position: absolute;
+  width: 181px;
+  height: 88px;
+  left: 91%;
+  top: -5%;
+  
+  font-family: Do Hyeon;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 87px;
+  /* identical to box height */
+  
+  font-feature-settings: 'tnum' on, 'lnum' on;
+  
+  color: #000000;
+}
